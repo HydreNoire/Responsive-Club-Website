@@ -23,7 +23,7 @@ The goal was to make a website for a club, real or not, which is responsive.
 ## Need to improve 
 
 - [ ] - Animation slideshow
-- [ ] - Adding some breakpoints
+- [x] - Patch responsive
 
 ## Author
 * **HydreNoire** _alias_ [@HydreNoire](https://github.com/HydreNoire)
